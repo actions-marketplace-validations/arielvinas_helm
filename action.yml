@@ -1,4 +1,4 @@
-name: Helm Deploy
+name: Helm Upgrade Action
 description: Deploys a helm chart to Kubernetes
 author: lykon
 branding:
